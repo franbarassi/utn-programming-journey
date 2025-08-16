@@ -3,18 +3,19 @@
 
 
 Algoritmo Ejercicio1
-    Definir a, b, suma, resta, producto como Entero
+    Definir a, b como Entero;
+	Definir suma, resta, producto como Entero;
 	
-	Escribir "Ingrese el valor de A: "
-	Leer a
-	Escribir "Ingrese el valor de B: "
-	Leer b
+	Escribir "Ingrese el valor de A: ";
+	Leer a;
+	Escribir "Ingrese el valor de B: ";
+	Leer b;
 	
-	suma = a + b
-	resta = a - b
-	producto = a * b
+	suma = a + b;
+	resta = a - b;
+	producto = a * b;
 	
-	Escribir "La suma es: ", suma
-	Escribir "La resta es: ", resta
-	Escribir "El producto es: ", producto
+	Escribir "La suma es: ", suma;
+	Escribir "La resta es: ", resta;
+	Escribir "El producto es: ", producto;
 FinAlgoritmo

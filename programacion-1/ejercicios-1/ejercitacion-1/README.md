@@ -5,9 +5,11 @@ Este directorio contiene los ejercicios de la primera ejercitación de Programac
 ## Contenido
 - **Enunciado.pdf** → archivo con las consignas originales
 - **ej1.psc** → pseudocódigo en PSeInt
-- **ej1.drawio**, **ej1.svg** → diagrama de flujo
+- **ej1.drawio**, **ej1-diagrama-flujo.svg** → diagrama de flujo
+- **ej1-diagrama-desc.drawio**, **ej1-diagrama-desc.svg** → diagrama descendente
 - **ej2.psc** → pseudocódigo del ejercicio 2
 - **ej2.drawio**, **ej2.svg** → diagrama del ejercicio 2
+- **ej2-diagrama-desc.drawio**, **ej2-diagrama-desc.svg** → diagrama descendente
 - etc.
 
 ## Ejercicios
