@@ -46,8 +46,8 @@ Este repositorio está enfocado principalmente en las materias de la carrera que
 ```bash
 .
 ├── programacion-1/
-│   ├── practicos/
-│   └── proyectos/
+│   ├── ejercicios-1/
+│       └── ejercitacion-1/
 ├── programacion-2/
 ├── programacion-3/
 ├── programacion-4/
