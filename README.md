@@ -2,7 +2,7 @@
 
 ## 🇪🇸 Español
 
-Bienvenido a mi repositorio personal donde documento mi progreso, ejercicios y proyectos desarrollados a lo largo de la **Tecnicatura Universitaria en Programación** en la **Universidad Tecnológica Nacional (UTN)**.
+Bienvenidos a mi repositorio personal donde documento mi progreso, ejercicios y proyectos desarrollados a lo largo de la **Tecnicatura Universitaria en Programación** en la **Universidad Tecnológica Nacional (UTN)**.
 
 Este repositorio está enfocado principalmente en las materias de la carrera que involucran **programación, bases de datos y análisis de datos**, es decir, aquellas donde puedo mostrar trabajos prácticos con código real.
 
