@@ -129,8 +129,8 @@ This repository focuses mainly on the subjects in the program that involve **pro
 ```bash
 .
 ├── programacion-1/
-│   ├── practicos/
-│   └── proyectos/
+│   ├── ejercicios-1/
+│       └── ejercitacion-1/
 ├── programacion-2/
 ├── programacion-3/
 ├── programacion-4/
