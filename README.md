@@ -48,6 +48,7 @@ Este repositorio está enfocado principalmente en las materias de la carrera que
 ├── programacion-1/
 │   ├── ejercicios-1/
 │       └── ejercitacion-1/
+|           └── ej1/
 ├── programacion-2/
 ├── programacion-3/
 ├── programacion-4/
@@ -131,6 +132,7 @@ This repository focuses mainly on the subjects in the program that involve **pro
 ├── programacion-1/
 │   ├── ejercicios-1/
 │       └── ejercitacion-1/
+|           └── ej1/
 ├── programacion-2/
 ├── programacion-3/
 ├── programacion-4/
